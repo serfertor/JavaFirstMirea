@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaFirstMirea.iml" filepath="$PROJECT_DIR$/.idea/JavaFirstMirea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pr1/Pr1.iml" filepath="$PROJECT_DIR$/Pr1/Pr1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pr2/Pr2.iml" filepath="$PROJECT_DIR$/Pr2/Pr2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pr3/Pr3.iml" filepath="$PROJECT_DIR$/Pr3/Pr3.iml" />
+    </modules>
+  </component>
+</project>
