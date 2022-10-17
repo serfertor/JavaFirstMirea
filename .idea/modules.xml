@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaFirstMirea.iml" filepath="$PROJECT_DIR$/.idea/JavaFirstMirea.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lab1/Lab1.iml" filepath="$PROJECT_DIR$/Lab1/Lab1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/Lab2/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1.1/Lab1.1.iml" filepath="$PROJECT_DIR$/Lab1.1/Lab1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2.1/Lab2.1.iml" filepath="$PROJECT_DIR$/Lab2.1/Lab2.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab3/Lab3.iml" filepath="$PROJECT_DIR$/Lab3/Lab3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr1/Pr1.iml" filepath="$PROJECT_DIR$/Pr1/Pr1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr12/Pr12.iml" filepath="$PROJECT_DIR$/Pr12/Pr12.iml" />
