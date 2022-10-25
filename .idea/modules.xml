@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/Lab1.1/Lab1.1.iml" filepath="$PROJECT_DIR$/Lab1.1/Lab1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab2.1/Lab2.1.iml" filepath="$PROJECT_DIR$/Lab2.1/Lab2.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab3/Lab3.iml" filepath="$PROJECT_DIR$/Lab3/Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab4/Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab5/Lab5.iml" filepath="$PROJECT_DIR$/Lab5/Lab5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr1/Pr1.iml" filepath="$PROJECT_DIR$/Pr1/Pr1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr12/Pr12.iml" filepath="$PROJECT_DIR$/Pr12/Pr12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr2/Pr2.iml" filepath="$PROJECT_DIR$/Pr2/Pr2.iml" />
@@ -14,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Pr5/Pr5.iml" filepath="$PROJECT_DIR$/Pr5/Pr5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr6/Pr6.iml" filepath="$PROJECT_DIR$/Pr6/Pr6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr7/Pr7.iml" filepath="$PROJECT_DIR$/Pr7/Pr7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
     </modules>
   </component>
 </project>
