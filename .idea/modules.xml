@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaFirstMirea.iml" filepath="$PROJECT_DIR$/.idea/JavaFirstMirea.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab1.1/Lab1.1.iml" filepath="$PROJECT_DIR$/Lab1.1/Lab1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab10/Lab10.iml" filepath="$PROJECT_DIR$/Lab10/Lab10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab2.1/Lab2.1.iml" filepath="$PROJECT_DIR$/Lab2.1/Lab2.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab3/Lab3.iml" filepath="$PROJECT_DIR$/Lab3/Lab3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab4/Lab4.iml" />
@@ -11,14 +12,17 @@
       <module fileurl="file://$PROJECT_DIR$/Lab6/Lab6.iml" filepath="$PROJECT_DIR$/Lab6/Lab6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab7/Lab7.iml" filepath="$PROJECT_DIR$/Lab7/Lab7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab8/Lab8.iml" filepath="$PROJECT_DIR$/Lab8/Lab8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab9/Lab9.iml" filepath="$PROJECT_DIR$/Lab9/Lab9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr1/Pr1.iml" filepath="$PROJECT_DIR$/Pr1/Pr1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Pr12/Pr12.iml" filepath="$PROJECT_DIR$/Pr12/Pr12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pr10/Pr10.iml" filepath="$PROJECT_DIR$/Pr10/Pr10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr2/Pr2.iml" filepath="$PROJECT_DIR$/Pr2/Pr2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr3/Pr3.iml" filepath="$PROJECT_DIR$/Pr3/Pr3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr4/Pr4.iml" filepath="$PROJECT_DIR$/Pr4/Pr4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr5/Pr5.iml" filepath="$PROJECT_DIR$/Pr5/Pr5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr6/Pr6.iml" filepath="$PROJECT_DIR$/Pr6/Pr6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pr7/Pr7.iml" filepath="$PROJECT_DIR$/Pr7/Pr7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pr8/Pr8.iml" filepath="$PROJECT_DIR$/Pr8/Pr8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pr9/Pr9.iml" filepath="$PROJECT_DIR$/Pr9/Pr9.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
     </modules>
   </component>

@@ -3,10 +3,10 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        WaitList<Integer> lst1 = new BoundedWaitList<Integer>(5);
+        WaitList<Object> lst1 = new BoundedWaitList<>(5);
         lst1.add(1);
         lst1.add(2);
-        lst1.add(3);
+        lst1.add("ter");
         lst1.add(4);
         System.out.println(lst1.content);
 
