@@ -4,15 +4,14 @@ import java.util.regex.*;
 
 public class Main {
     public static void main(String[] args) {
-        exer1();
-        System.out.println(exer3());
-        exer4();
+        //exer1();
+        //System.out.println(exer3());
+        //exer4();
         exer5();
     }
-
     public static void exer1 (){
         String s = "20.12 USD 01 RUB 12.00 RUB EU 16.45 EU";
-        Pattern pattern = Pattern.compile("(([1-9]|[1-9][0-9]).\\d\\d ((USD)|(RUB)|(EU)))");
+        Pattern pattern = Pattern.compile("(([1-9]|[1-9][0-9]).\\d\\d ((USD)|(RUB)|(EU)))");   // abc abc abc
         Matcher matcher = pattern.matcher(s);
         while (matcher.find()) {
             System.out.println(matcher.group());
@@ -57,7 +56,7 @@ public class Main {
         return false;
     }
     public static void exer4(){
-        String s = "serf@mail.ru okoto@@ya.com rer rer @gmail.com tertov@yandex.sud";
+        String s = "serf@mail.ru okoto@@ya.com rer rer @gmail.com ternov@yandex.sud";
         Pattern pattern = Pattern.compile("(\\w+@)(\\w+\\.)([a-zA-Z]{2,4})");
         Matcher matcher = pattern.matcher(s);
         while (matcher.find()) {
