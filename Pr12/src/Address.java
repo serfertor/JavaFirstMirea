@@ -30,6 +30,10 @@ public class Address {
         this.house = mass[4];
         this.part = mass[5];
         this.flat = mass[6];
+        String s = new String ("123");
+        String d = new String ("123"); //s != d equals(s, d) == True
+        String s1 = "dddd";
+        String s2 = "dddd"; //s1 == s2 и equals(s1,s2) == True
     }
 
     @Override

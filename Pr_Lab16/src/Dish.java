@@ -30,4 +30,13 @@ public final class Dish implements Item{
     public String getDescription() {
         return description;
     }
+
+    @Override
+    public String toString() {
+        return "Dish{" +
+                "price=" + price +
+                ", name='" + name + '\'' +
+                ", description='" + description + '\'' +
+                '}';
+    }
 }

@@ -10,7 +10,7 @@ public class OrdersManager {
 
     }
 
-    public OrdersManager(int tableCount) { //конструктор с заданным значением количества заказов
+    public OrdersManager(int tableCount) { //конструктор с заданным значением количества столиков
         orders = new Order[tableCount];
         ordersE = new HashMap<>();
     }
